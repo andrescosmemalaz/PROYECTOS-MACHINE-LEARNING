@@ -14,6 +14,6 @@ Link : https://github.com/andrescosmemalaz/PROYECTOS-MACHINE-LEARNING/tree/main/
 
 Link : https://github.com/andrescosmemalaz/PROYECTOS-MACHINE-LEARNING/blob/main/PROYECTO%20DE%20OPTIMZIACION%20DE%20RUTAS/DESARROLLO_DE_MODELO_OPTIMIZACION_DE_RUTAS.ipynb
 
-6. 🍎 Distribution of Food Products to Different Stores in Top Districts of Lima : This project focuses on planning and executing an effective distribution strategy for food products to various stores in the top districts of Lima. Through the use of data analysis, demand forecasting, and optimization modeling, the aim is to ensure that the right products reach the right stores at the right time. This will help maintain optimal inventory levels, minimize product loss due to expiration, and ensure customer satisfaction.
+5. 🍎 Distribution of Food Products to Different Stores in Top Districts of Lima : This project focuses on planning and executing an effective distribution strategy for food products to various stores in the top districts of Lima. Through the use of data analysis, demand forecasting, and optimization modeling, the aim is to ensure that the right products reach the right stores at the right time. This will help maintain optimal inventory levels, minimize product loss due to expiration, and ensure customer satisfaction.
 
 Link : https://github.com/andrescosmemalaz/PROYECTOS-MACHINE LEARNING/blob/main/PROYECTO%20DE%20OPTIMZIACION%20DE%20RUTAS/DESARROLLO_DE_MODELO_OPTIMIZACION_DE_RUTAS.ipynb
