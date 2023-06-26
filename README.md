@@ -6,7 +6,7 @@ Forecasting rise and fall in the daily gold rates can help investors to decide w
 The challenge of this project is to accurately predict the future adjusted closing price of Gold ETF across a given period of time in the future. The problem is a regression problem, because the output value which is the adjusted closing price in this project is continuous value.
 Link : https://github.com/andrescosmemalaz/PROYECTOS-MACHINE-LEARNING/tree/main/Gold%20Price%20Data
 
-2. 🏠 House Price Prediction using Machine Learning with Python : This project focuses on the development and implementation of a machine learning model to predict house prices. Using Python, one of the most popular programming languages for data analysis and machine learning, this project offers an effective solution to assist investors, real estate agents, and potential buyers in making a more accurate estimation of a property's value.
+3. 🏠 House Price Prediction using Machine Learning with Python : This project focuses on the development and implementation of a machine learning model to predict house prices. Using Python, one of the most popular programming languages for data analysis and machine learning, this project offers an effective solution to assist investors, real estate agents, and potential buyers in making a more accurate estimation of a property's value.
 
 Link : https://github.com/andrescosmemalaz/PROYECTOS-MACHINE-LEARNING/tree/main/House%20Price%20Prediction%20using%20Machine%20Learning%20with%20Python
 
