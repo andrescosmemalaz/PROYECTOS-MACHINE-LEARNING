@@ -7,13 +7,14 @@ The challenge of this project is to accurately predict the future adjusted closi
 Link : https://github.com/andrescosmemalaz/PROYECTOS-MACHINE-LEARNING/tree/main/Gold%20Price%20Data
 
 2. 🏠 House Price Prediction using Machine Learning with Python : This project focuses on the development and implementation of a machine learning model to predict house prices. Using Python, one of the most popular programming languages for data analysis and machine learning, this project offers an effective solution to assist investors, real estate agents, and potential buyers in making a more accurate estimation of a property's value.
-
 Link : https://github.com/andrescosmemalaz/PROYECTOS-MACHINE-LEARNING/tree/main/House%20Price%20Prediction%20using%20Machine%20Learning%20with%20Python
 
 3. 🍻 Beer Distribution Route Optimization : This project aims to optimize beer distribution routes to maximize efficiency, reduce costs, and enhance customer satisfaction. Utilizing geospatial analysis techniques, linear programming, and potentially machine learning, the project seeks to determine the optimal sequence of visits to points of sale to minimize total travel distance or total travel time, considering various constraints such as operating hours, vehicle capacity, and service time at each point.
-
 Link : https://github.com/andrescosmemalaz/PROYECTOS-MACHINE-LEARNING/blob/main/PROYECTO%20DE%20OPTIMZIACION%20DE%20RUTAS/DESARROLLO_DE_MODELO_OPTIMIZACION_DE_RUTAS.ipynb
 
 4. 🍎 Distribution of Food Products to Different Stores in Top Districts of Lima : This project focuses on planning and executing an effective distribution strategy for food products to various stores in the top districts of Lima. Through the use of data analysis, demand forecasting, and optimization modeling, the aim is to ensure that the right products reach the right stores at the right time. This will help maintain optimal inventory levels, minimize product loss due to expiration, and ensure customer satisfaction.
-
 Link : https://github.com/andrescosmemalaz/PROYECTOS-MACHINE LEARNING/blob/main/PROYECTO%20DE%20OPTIMZIACION%20DE%20RUTAS/DESARROLLO_DE_MODELO_OPTIMIZACION_DE_RUTAS.ipynb
+
+
+5. 📊  Projects Data Analytics  specializes in leveraging data-driven insights to drive strategic decision-making across various domains, including sales, finance, sales costs, historical revenue analysis, supply chain, and human resources. 📈 Our team of skilled data analysts and experts combines advanced statistical techniques with cutting-edge tools and technologies to uncover valuable patterns, trends, and correlations within complex datasets. 🔍📊 In our sales analytics projects, we delve into comprehensive sales data to identify key drivers of success, optimize pricing strategies, and enhance customer segmentation for targeted marketing campaigns. 💰📈 Through rigorous financial analysis, we help businesses gain a deeper understanding of their financial performance, identify areas for cost reduction, and develop effective budgeting strategies. 💼💵 Moreover, our expertise in historical revenue analysis enables us to uncover hidden revenue growth opportunities and guide businesses in maximizing their revenue potential. 📈🚀 We analyze historical data trends, customer behavior, and market dynamics to provide actionable insights that inform revenue forecasting and strategic planning. 💡💸
+Link : https://github.com/andrescosmemalaz/PROYECTOS_Data-Analytics
